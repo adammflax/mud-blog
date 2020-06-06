@@ -1,6 +1,4 @@
 > :Title color=black
->
-> This blog's purpose
 
 > :Author src=github
 
