@@ -88,14 +88,14 @@
       "hash": "ccdKb7AujVX6SNWqY9ipVw=="
     },
     {
-      "name": "ArticleCard",
-      "filename": "/home/runner/work/mud-blog/mud-blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js",
-      "hash": "XljTMEmS2ZfGU9Is2UkhAQ=="
-    },
-    {
       "name": "Author",
       "filename": "/home/runner/work/mud-blog/mud-blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/author/index.js",
       "hash": "mVRiVA/Nd82TIKfBzlbMIg=="
+    },
+    {
+      "name": "ArticleCard",
+      "filename": "/home/runner/work/mud-blog/mud-blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js",
+      "hash": "XljTMEmS2ZfGU9Is2UkhAQ=="
     }
   ],
   "renderer": {
