@@ -41,5 +41,8 @@ blog. Note that the contents of `gh-pages` will be automatically generated via t
 
 
 ## killing codedoc serve
+```
 Get-Process -Id (Get-NetTCPConnection -LocalPort 3000).OwningProcess
+
 Stop-Process -ID [PID] -Force
+```
