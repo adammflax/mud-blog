@@ -38,3 +38,8 @@ for example when you push to master branch.
 This boilerplate comes with a preset workflow for publishing to GitHub Pages. Push something so that your `gh-pages` branch
 is created, enable GitHub Pages and set it to use `gh-pages` branch, and push another time for GitHub to pick up your
 blog. Note that the contents of `gh-pages` will be automatically generated via the preset workflow.
+
+
+## killing codedoc serve
+Get-Process -Id (Get-NetTCPConnection -LocalPort 3000).OwningProcess
+Stop-Process -ID [PID] -Force
