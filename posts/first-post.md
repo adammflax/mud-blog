@@ -1,4 +1,6 @@
 > :Title color=black
+>
+> This blog's purpose
 
 > :Author src=github
 
@@ -13,7 +15,7 @@ Not long ago I was cleaning out my closet and I found this book still in reasona
 
 > :Space space=6px
 
-I've always wanted to make a game however my goal at the moment is to learn Clojure. By working on a MUD I can focus on the programming aspect of game development which is a double win as I'm a terrible arist.
+I've always wanted to make a game however my goal at the moment is to learn Clojure. By working on a MUD I can focus on the programming aspect of game development which is a double win as Im a terrible arist.
 
 Why Clojure?
 ------------
