@@ -20,7 +20,7 @@ export const config = /*#__PURE__*/configuration({
   },
   page: {
     title: {
-      base: 'Coding Blog Boilerplate'         // --> change this to change your blog's title
+      base: 'Clojure MUD blog'         // --> change this to change your blog's title
     },
     favicon: '/favicon.ico'
   },
@@ -34,8 +34,8 @@ export const config = /*#__PURE__*/configuration({
   ],
   misc: {
     github: {
-      repo: 'coding-blog-boilerplate',
-      user: 'CONNECT-platform'
+      repo: 'mud-blog',
+      user: 'adammflax'
     }
   }
 });
