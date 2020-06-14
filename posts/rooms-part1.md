@@ -8,7 +8,7 @@ This week I've started working on the room system for my MUD. My end goal is to 
 
 Building a zone
 ------------------------
-A zone is a grouping of multiple rooms and rooms are connected by a direction. I've decided to represent this as an adjacency list (The directional aspect has yet to be implemented)
+A zone is a grouping of multiple rooms and rooms are connected by a direction. I've decided to represent this as an adjacency list (The directional aspect has yet to be implemented).
 
 ```clojure
 
@@ -48,7 +48,11 @@ We can then generate our zone like so
 
 Pathfinding
 ------------
-I've also implemented the Dijkstra algorithm so that I can easily find the shortest path to Room X from Room Y
+I've also implemented the Dijkstra algorithm so that I can easily find the shortest path to Room X from Room Y.
+
+I kept going back and forth on the structure of the data however I'm happy with how it turned out. I felt joy when I finally managed to get it to work.
+
+Furthermore I finally understand the [Symmetrizer example](https://www.braveclojure.com/do-things/#Symmetrizer) in the Brave Clojure book!
 
 ```clojure
 (defn build-graph
