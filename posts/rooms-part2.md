@@ -85,10 +85,10 @@ We can now build the following zone with the following code
                 (add-exit :d :e :south 1)))
 				
    => {
-		:b [{:target :a, :direction :north, :cost 1, :locks []} {:target :e, :direction :south-east, :cost 4, :locks []}],
+		:b [{:target :a, :direction :north, :cost 1, :locks []} 
+			{:target :e, :direction :south-east, :cost 4, :locks []}],
 		:a [{:target :b, :direction :south, :cost 1, :locks []}
-			{:target :c, :direction :east,  :cost 2, :locks [#someFnAddress]}
-		   ],
+			{:target :c, :direction :east,  :cost 2, :locks [#someFnAddress]}],
 		:e [],
 		:c [{:target :d, :direction :south, :cost 1, :locks []}],
 		:d [{:target :e, :direction :south, :cost 1, :locks []}]
