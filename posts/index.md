@@ -16,6 +16,8 @@ This blog exists to document my journey as I attempt to write a [multi-user dung
 ---
 
 # Latest Posts
+> :ArticleCard src=/rooms-part2
+
 > :ArticleCard src=/rooms-part1
 
 > :ArticleCard src=/first-post
