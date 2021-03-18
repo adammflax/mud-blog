@@ -11,13 +11,11 @@
 >
 > My MUD Blog
 
-This blog exists to document my journey as I attempt to write a [multi-user dungeon](https://en.wikipedia.org/wiki/MUD) in Clojure and ClojureScript
+This blog exists to document my journey as I attempt to write a [multi-user dungeon](https://en.wikipedia.org/wiki/MUD) in Nim
 
 ---
 
 # Latest Posts
-> :ArticleCard src=/rooms-part2
-
-> :ArticleCard src=/rooms-part1
+> :ArticleCard src=/nim-environment-setup
 
 > :ArticleCard src=/first-post

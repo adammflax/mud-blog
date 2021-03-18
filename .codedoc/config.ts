@@ -20,7 +20,7 @@ export const config = /*#__PURE__*/configuration({
   },
   page: {
     title: {
-      base: 'Clojure MUD blog'         // --> change this to change your blog's title
+      base: 'Nim MUD blog'         // --> change this to change your blog's title
     },
     favicon: '/favicon.ico'
   },
